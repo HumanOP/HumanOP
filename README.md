@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 <h1 align="left">Reach out at:</h1>
-## Socials [![LinkedIn](https://img.shields.io/static/v1?label=&message=&color=0A66C2&style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/divyanshu-k) [![X](https://img.shields.io/static/v1?label=&message=&color=000000&style=flat&logo=x&logoColor=white)](https://x.com/DivtheHuman) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dakshyaofficial@gmail.com)
+
+## Socials 
+[![LinkedIn](https://img.shields.io/static/v1?label=&message=&color=0A66C2&style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/divyanshu-k) [![X](https://img.shields.io/static/v1?label=&message=&color=000000&style=flat&logo=x&logoColor=white)](https://x.com/DivtheHuman) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dakshyaofficial@gmail.com)
 
 
 
