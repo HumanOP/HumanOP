@@ -6,5 +6,5 @@
 
 
 <div align = "center">
-<img src="https://github.com/mohittalwar23/mohittalwar23/blob/output/github-snake-dark.svg" alt="Snake Animation" />
+<img src="https://github.com/HumanOP/HumanOP/blob/output/github-snake-dark.svg" alt="Snake Animation" />
 </div>
