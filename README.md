@@ -1,17 +1,9 @@
 ## Hi there 👋
 
 <h1 align="left">Reach out at:</h1>
-
-# I Build ( yes i really do )  
-
-Currently working at **MCP** on distributed systems & server architecture with a focus on scalability and resilience.  
-
-**Check My Work** 👉 [69ftw.site](https://www.69ftw.site)  
-*Fun fact: This dashboard has seen more commits than my group projects ever did.*  
-
-
 ## Socials  
-[![](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/divyanshu-k) [![](https://img.shields.io/badge/X-black.svg?style=flat&logo=X&logoColor=white)](https://x.com/DivtheHuman) ![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)(mailto:dakshyaofficial@gmail.com)  
+[![](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/divyanshu-k) [![X](https://img.shields.io/static/v1?label=&message=&color=000000&style=flat&logo=x&logoColor=white)](https://x.com/DivtheHuman)
+ ![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)(mailto:dakshyaofficial@gmail.com)  
 
 
 ## Tech Stack  
