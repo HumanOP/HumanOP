@@ -3,7 +3,7 @@
 <h1 align="left">Reach out at:</h1>
 
 ## Socials 
-[![LinkedIn](https://img.shields.io/badge/-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/divyanshu-k)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/divyanshu-k)
 [![X](https://img.shields.io/badge/-000000?style=flat&logo=x&logoColor=white)](https://x.com/DivtheHuman)
 [![Email](https://img.shields.io/badge/-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dakshyaofficial@gmail.com)
 
